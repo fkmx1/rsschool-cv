@@ -2,6 +2,13 @@
 ## FRONTEND DEVELOPER
 
 ---
+### CONTACT
++375445346560 A1
++375336340886 МТС
+TG: @fkmx1
+Discord: @fkmx1
+
+---
 
 ### PROFILE
 
