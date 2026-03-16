@@ -4,9 +4,9 @@
 ---
 ### CONTACT
 
-TG: @fkmx1
-Discord: Maksim Pegov (@fkmx1)
-Gmail: makspegov25@gmail.com
+TG: @fkmx1\
+Discord: Maksim Pegov (@fkmx1)\
+Gmail: makspegov25@gmail.com\
 
 ---
 
@@ -58,6 +58,7 @@ Website Markup (HTML5, CSS3, JavaScript)
 - Adaptive and cross-browser layout based on designs (Figma, Photoshop)
 - Performance optimization and semantic structure improvements
 - Solved Codewars challenges (5-6 kyu level) to improve algorithmic thinking
+  
 ---
 
 ### Education
