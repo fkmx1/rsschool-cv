@@ -6,7 +6,7 @@
 
 TG: @fkmx1\
 Discord: Maksim Pegov (@fkmx1)\
-Gmail: makspegov25@gmail.com\
+Gmail: makspegov25@gmail.com
 
 ---
 
