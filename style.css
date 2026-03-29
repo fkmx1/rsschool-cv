@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(120, 120, 124);
+    font-size: 24px;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a:hover {
+    color:rgb(182, 177, 172);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.footer,
+.header {
+    background-color: #f0edf1;
+}
+
+.header {
+    font-size: 24px;
+}
+
+section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    padding: 10px;
+}
+
+.img-photo {
+    width: 200px;
+}
+
+#contacts ul li,
+#skills ol li{
+    padding: 10px;
+}
+
+.footer-inner,
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-year {
+    font-size: 40px;
+}
+
+.git-logo-img,
+.course-logo-img {
+    width: 96px;
+    height: 96px;
+}
+
+p{
+    margin: 10px 0 10px;
+}
