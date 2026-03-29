@@ -14,3 +14,23 @@ ul {
     margin: 0 auto;
     padding: 0 15px;
 }
+
+.footer{
+    background-color: #f0edf1;
+}
+
+.footer-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-year {
+    font-size: 40px;
+}
+
+.git-logo-img,
+.course-logo-img {
+    width: 96px;
+    height: 96px;
+}
